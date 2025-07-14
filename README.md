@@ -54,8 +54,8 @@ This provides a fully voice-controlled online shopping experience.
 
 ## 📸 Demo
 
-> 🔗 [Demo Video Link Here]  
-> *(https://youtu.be/lpZoorqfNak?si=o8BThqeSapa96V8S)*
+> 🔗 [https://youtu.be/lpZoorqfNak?si=o8BThqeSapa96V8S]  
+
 
 Example commands:
 - “Add milk to cart”
