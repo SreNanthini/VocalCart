@@ -2,4 +2,3 @@ streamlit
 gTTS
 speechrecognition
 playsound
-pyaudio
